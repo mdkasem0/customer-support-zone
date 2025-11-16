@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User cannot log in with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "2025-09-10T09:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Transaction declined despite sufficient balance.",
+    "customer": "Jane Smith",
+    "priority": "Critical",
+    "status": "open",
+    "createdAt": "2025-09-11T11:45:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Page Not Loading",
+    "description": "Home page stuck on loading spinner.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-12T14:10:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Password Reset Error",
+    "description": "Reset email not received by customer.",
+    "customer": "Emily Davis",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "2025-09-13T08:25:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Slow Checkout",
+    "description": "Checkout page taking too long to process.",
+    "customer": "Chris Wilson",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-14T16:40:00Z"
+  },
+  {
+    "id": 6,
+    "title": "App Crash on iOS",
+    "description": "App crashes on iPhone 14 when opening profile.",
+    "customer": "Sophia Martinez",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-15T12:05:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Incorrect Invoice",
+    "description": "Customer invoice shows wrong billing details.",
+    "customer": "David Lee",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-09-16T10:20:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Missing Order Confirmation",
+    "description": "Customer did not receive confirmation email.",
+    "customer": "Olivia Garcia",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-17T13:50:00Z"
+  },
+  {
+    "id": 9,
+    "title": "UI Bug in Dashboard",
+    "description": "Statistics panel overlaps navigation menu.",
+    "customer": "William Johnson",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-18T07:15:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Refund Request Pending",
+    "description": "Refund not processed within expected time.",
+    "customer": "Ava Taylor",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-09-19T15:30:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Search Function Broken",
+    "description": "Search bar not returning any results.",
+    "customer": "James Anderson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Delayed Notification",
+    "description": "Push notifications arriving hours late.",
+    "customer": "Mia White",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-21T18:45:00Z"
+  }
+]
